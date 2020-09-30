@@ -35,16 +35,16 @@
 
 - Importings:
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.ensemble import ExtraTreesRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
-from sklearn import metrics
-from sklearn.model_selection import RandomizedSearchCV
-import pickle
+- mport pandas as pd
+- mport numpy as np
+- mport matplotlib.pyplot as plt
+- mport seaborn as sns
+- rom sklearn.ensemble import ExtraTreesRegressor
+- rom sklearn.model_selection import train_test_split
+- rom sklearn.ensemble import RandomForestRegressor
+- rom sklearn import metrics
+- rom sklearn.model_selection import RandomizedSearchCV
+- mport pickle
 
 
 > - Score:
