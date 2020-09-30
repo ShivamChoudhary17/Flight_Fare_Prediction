@@ -1,5 +1,12 @@
 # Flight_Fare_Prediction
 
+## Table Of Content:
+- Problem Statement
+- Features detail
+- Importings
+- Score
+
+
 > - ______________________________________________________________________________________________________________________________________________________________________________
 ![Test_Image1](https://wonderfulengineering.com/wp-content/uploads/2014/05/airplane-wallpaper-2.jpg)
 > - ______________________________________________________________________________________________________________________________________________________________________________
@@ -10,7 +17,7 @@
 > - Size of training set: 10683 records
 > - Size of test set: 2671 records
 > 
-  - FEATURES:
+  - FEATURES DETAILS:
 > 1. Airline: Name of the airline.
 > 
 > 2. Date_of_Journey: journey date.
@@ -35,16 +42,16 @@
 
 - Importings:
 
-- mport pandas as pd
-- mport numpy as np
-- mport matplotlib.pyplot as plt
-- mport seaborn as sns
-- rom sklearn.ensemble import ExtraTreesRegressor
-- rom sklearn.model_selection import train_test_split
-- rom sklearn.ensemble import RandomForestRegressor
-- rom sklearn import metrics
-- rom sklearn.model_selection import RandomizedSearchCV
-- mport pickle
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from sklearn.ensemble import ExtraTreesRegressor
+- from sklearn.model_selection import train_test_split
+- from sklearn.ensemble import RandomForestRegressor
+- from sklearn import metrics
+- from sklearn.model_selection import RandomizedSearchCV
+- import pickle
 
 
 > - Score:
