@@ -33,3 +33,24 @@
 > 
 > 11. Price: The price of the ticket.
 
+- Importings:
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.ensemble import ExtraTreesRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn import metrics
+from sklearn.model_selection import RandomizedSearchCV
+import pickle
+
+
+> - Score:
+metrics.r2_score(y_test, y_prediction)
+=> .8130391097916131
+
+
+
+
