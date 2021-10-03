@@ -66,6 +66,6 @@ metrics.r2_score(y_test, y_prediction)
 > - ___________________________________________________________________________________________________________________________________________________________________________
 
 
-* [Test Image2](https://content.altexsoft.com/media/2021/08/word-image-20.png)
+![Test Image2](https://content.altexsoft.com/media/2021/08/word-image-20.png)
 
 
